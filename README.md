@@ -2,7 +2,7 @@
 
 **Öğrenci:** Furkan Akkamış – 235542002
 **Bölüm:** Teknoloji Fakültesi – Yazılım Mühendisliği
-**Makine:** Argesta Makine Mühendislik A.Ş. (Konya) – Döner Tablalı Otomatik Palet Streç Sarma Makinesi
+**Makine:** Argesta Makine Mühendislik A.Ş. – Döner Tablalı Otomatik Palet Streç Sarma Makinesi
 
 Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış **kör test cevaplarını** içerir.
 
