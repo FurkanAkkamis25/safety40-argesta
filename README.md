@@ -14,6 +14,8 @@ Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış 
 | 2 | [IEC 62443 Mini Workshop](labs/lab2-iec62443.md) | Zone / Conduit Diagram | EP 05 |
 | 3 | [Threat & Risk + Risk Matrix](labs/lab3-risk-matrix.md) | Risk Register | EP 04 |
 | 4 | [Secure Remote Access](labs/lab4-secure-remote-access.md) | Secure Architecture | EP 02 + EP 06 |
+| 5 | [SBOM / CVE / Patch (PDF)](labs/lab5-sbom-cve-patch.pdf) | Vulnerability Decision | EP 09 · 10 · 11 |
+| 6 | [CRA Incident Simulation (PDF)](labs/lab6-cra-incident.pdf) | Incident Workflow | EP 13 |
 
 ## Makine özeti
 
