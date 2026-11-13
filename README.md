@@ -17,6 +17,19 @@ Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış 
 | 5 | [SBOM / CVE / Patch (PDF)](labs/lab5-sbom-cve-patch.pdf) | Vulnerability Decision | EP 09 · 10 · 11 |
 | 6 | [CRA Incident Simulation (PDF)](labs/lab6-cra-incident.pdf) | Incident Workflow | EP 13 |
 
+## Şişeleme Hattı ve PaketPro 3000 sürümleri
+
+Derste kullanılan iki örnek makine için Lab 1–6 cevapları (her PDF'te A: Şişeleme Hattı, B: PaketPro 3000):
+
+| Hafta | Laboratuvar | PDF |
+|---|---|---|
+| 1 | Safety Architecture | [lab1-safety-architecture.pdf](sise-paket/lab1-safety-architecture.pdf) |
+| 2 | IEC 62443 Mini Workshop | [lab2-iec62443.pdf](sise-paket/lab2-iec62443.pdf) |
+| 3 | Threat & Risk + Risk Matrix | [lab3-risk-matrix.pdf](sise-paket/lab3-risk-matrix.pdf) |
+| 4 | Secure Remote Access | [lab4-secure-remote-access.pdf](sise-paket/lab4-secure-remote-access.pdf) |
+| 5 | SBOM / CVE / Patch | [lab5-sbom-cve-patch.pdf](sise-paket/lab5-sbom-cve-patch.pdf) |
+| 6 | CRA Incident Simulation | [lab6-cra-incident.pdf](sise-paket/lab6-cra-incident.pdf) |
+
 ## Makine özeti
 
 Makine, palet üzerindeki yükü döner tabla ile çevirirken film taşıyıcının yukarı-aşağı hareketiyle streç film sarar ve sarma sonunda filmi keser.
