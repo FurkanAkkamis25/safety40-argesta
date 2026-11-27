@@ -4,7 +4,7 @@
 **Bölüm:** Teknoloji Fakültesi – Yazılım Mühendisliği
 **Makine:** Argesta Makine Mühendislik A.Ş. – Döner Tablalı Otomatik Palet Streç Sarma Makinesi
 
-Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış **kör test cevaplarını** içerir.
+Bu repo, 7 haftalık laboratuvar föylerinin seçilen makineye uygulanmış **kör test cevaplarını** içerir.
 
 ## İçerik
 
@@ -16,10 +16,13 @@ Bu repo, ilk 4 haftanın laboratuvar föylerinin seçilen makineye uygulanmış 
 | 4 | [Secure Remote Access](labs/lab4-secure-remote-access.md) | Secure Architecture | EP 02 + EP 06 |
 | 5 | [SBOM / CVE / Patch (PDF)](labs/lab5-sbom-cve-patch.pdf) | Vulnerability Decision | EP 09 · 10 · 11 |
 | 6 | [CRA Incident Simulation (PDF)](labs/lab6-cra-incident.pdf) | Incident Workflow | EP 13 |
+| 7 | [AI Safety Challenge](labs/lab7-ai-safety.md) | AI Fail-Safe Decision | – |
+
+**SWOT analizi:** [swot.md](swot.md) (Argesta, Şişeleme Hattı, PaketPro 3000)
 
 ## Şişeleme Hattı ve PaketPro 3000 sürümleri
 
-Derste kullanılan iki örnek makine için Lab 1–6 cevapları (her PDF'te A: Şişeleme Hattı, B: PaketPro 3000):
+Derste kullanılan iki örnek makine için Lab 1–7 cevapları (her PDF'te A: Şişeleme Hattı, B: PaketPro 3000):
 
 | Hafta | Laboratuvar | PDF |
 |---|---|---|
@@ -29,6 +32,7 @@ Derste kullanılan iki örnek makine için Lab 1–6 cevapları (her PDF'te A: �
 | 4 | Secure Remote Access | [lab4-secure-remote-access.pdf](sise-paket/lab4-secure-remote-access.pdf) |
 | 5 | SBOM / CVE / Patch | [lab5-sbom-cve-patch.pdf](sise-paket/lab5-sbom-cve-patch.pdf) |
 | 6 | CRA Incident Simulation | [lab6-cra-incident.pdf](sise-paket/lab6-cra-incident.pdf) |
+| 7 | AI Safety Challenge | [lab7-ai-safety.pdf](sise-paket/lab7-ai-safety.pdf) |
 
 ## Makine özeti
 
